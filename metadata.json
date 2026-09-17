@@ -1,0 +1,6 @@
+{
+  "name": "Warm Zone",
+  "description": "A professional arcade snake game with sleek visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
